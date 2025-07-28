@@ -21,12 +21,9 @@ I'm a **Software engineer** passionate about **[Your Main Interests]**. I love b
 
 ## 📊 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Acero-AD&show_icons=true&theme=radical)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Acero-AD&layout=compact&theme=radical)
 
 ## 🔥 Featured Projects
-
 
 ---
 
