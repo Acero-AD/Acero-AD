@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi there, I'm Diego Acero 👋
 
-<!--
-**Acero-AD/Acero-AD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+I'm a **Software engineer** passionate about **[Your Main Interests]**. I love building **[Type of Projects]** and exploring **[Technologies/Fields You're Interested In]**.
 
-Here are some ideas to get you started:
+- 🔭 I'm currently working on **[Current Project]**
+- 🌱 I'm currently learning **[Technologies You're Learning]**
+- 👯 I'm looking to collaborate on **[Type of Projects]**
+- 💬 Ask me about **[Your Expertise Areas]**
+- ⚡ Fun fact: **[Something Interesting About You]**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+
+### Languages
+
+### Frontend
+
+### Backend
+
+### Database & Cloud
+
+## 📊 GitHub Stats
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Acero-AD&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Acero-AD&layout=compact&theme=radical)
+
+## 🔥 Featured Projects
+
+
+---
+
+💡 *"Quote that represents your philosophy or motivation"*
+
+![Profile Views](https://komarev.com/ghpvc/?username=Acero-AD&color=brightgreen)
