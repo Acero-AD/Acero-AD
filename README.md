@@ -1,32 +1,14 @@
 # Hi there, I'm Diego Acero 👋
 
 ## 🚀 About Me
-I'm a **Software engineer** passionate about **[Your Main Interests]**. I love building **[Type of Projects]** and exploring **[Technologies/Fields You're Interested In]**.
+I'm a **Software engineer** passionate about **Sports, product engineer, productivity and content creation**. I love building whatever it goes through my mind while exploring new technologies and paradigms that can help improve the way I thing about problems.
 
-- 🔭 I'm currently working on **[Current Project]**
-- 🌱 I'm currently learning **[Technologies You're Learning]**
-- 👯 I'm looking to collaborate on **[Type of Projects]**
-- 💬 Ask me about **[Your Expertise Areas]**
-- ⚡ Fun fact: **[Something Interesting About You]**
-
-## 🛠️ Tech Stack
-
-### Languages
-
-### Frontend
-
-### Backend
-
-### Database & Cloud
-
-## 📊 GitHub Stats
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Acero-AD&layout=compact&theme=radical)
-
-## 🔥 Featured Projects
-
+- 🔭 I'm currently working on **Telegramity**
+- 🌱 I'm currently learning **Golang and React**
+- 💬 Ask me about **engineering, books, productivity or any topic you like (always open to learn new things)**
+- ⚡ Fun fact: **I studied sport science before starting my career as a software engineer**
 ---
 
-💡 *"Quote that represents your philosophy or motivation"*
+💡 *"It will just take a few hours..."*
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Acero-AD&color=brightgreen)
